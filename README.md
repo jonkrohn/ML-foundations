@@ -38,9 +38,17 @@ As with other materials created by Jon Krohn (such as the book [Deep Learning Il
 * Straightforward examples of Python code within hands-on Jupyter notebooks
 * Comprehension exercises with fully-worked solutions
 
-#### Why Study the Foundations? 
+#### Why Study the Foundations of Machine Learning? 
 
 The purpose of this series it to provide you with a practical, functional understanding of the content covered. Context will be given for each topic, highlighting its relevance to machine learning. You will be better-positioned to understand cutting-edge machine learning papers and you will be provided with resources for digging even deeper into topics that pique your curiosity. 
+
+The content in this series may be particularly relevant for you if: 
+
+* **You use high-level software libraries** (e.g., scikit-learn, Keras, TensorFlow, PyTorch) to train or deploy machine learning algorithms, and would now like to understand the fundamentals underlying the abstractions, enabling you to expand your capabilities
+* You’re a **software developer** who would like to develop a firm foundation for the deployment of machine learning algorithms into production systems
+* You’re a **data scientist** who would like to reinforce your understanding of the subjects at the core of your professional discipline
+* You’re a **data analyst** or **A.I. enthusiast** who would like to become a data scientist or data/ML engineer, and so you’re keen to deeply understand the field you’re entering from the ground up (very wise of you!) 
+
 
 ## Notebooks
 
