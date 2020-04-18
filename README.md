@@ -54,4 +54,4 @@ The content in this series may be particularly relevant for you if:
 
 All code is provided within Jupyter notebooks [in this directory](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/). 
 
-These notebooks are intended for use within the (free) Colab cloud environment. However, if you're keen to run them locally, you're welcome to do so (for the Jupyter uninitiated, check out [the installation instructions here](https://github.com/jonkrohn/DLTFpT/tree/master/installation) for guidance). 
+These notebooks are intended for use within the (free) [Colab cloud environment](https://colab.research.google.com). However, if you're keen to run them locally, you're welcome to do so (for the Jupyter uninitiated, check out [the installation instructions here](https://github.com/jonkrohn/DLTFpT/tree/master/installation) for guidance). 
