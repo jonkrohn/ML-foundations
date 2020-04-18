@@ -27,8 +27,10 @@ The eight topics in the series are organized into four couplets:
 * **Computer Science**
    * Algorithms & Data Structures
    * Optimization
+   
+Later topics build upon content from earlier topics, so the recommended approach is to progress through the eight topics in the order provided. That said, you're welcome to pick and choose individual topics based on your interest or existing familiarity with the material.
 
-#### Pedgogical Approach
+#### Pedagogical Approach
 
 As with other materials created by Jon Krohn (such as the book [Deep Learning Illustrated](https://www.deeplearningillustrated.com/) and his 18-hour video series [Deep Learning with TensorFlow, Keras, and PyTorch](https://github.com/jonkrohn/DLTFpT/)), the content in the series is brought to life through the combination of:
 
