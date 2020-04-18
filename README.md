@@ -15,16 +15,16 @@ The *Machine Learning Foundations* series provides a comprehensive overview of a
 
 The eight topics in the series are organized into four couplets: 
 
-1. **Linear Algebra**
-   * Intro to Linear Algebra
+* **Linear Algebra**
+   * [Intro to Linear Algebra](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/1_intro_to_linear_algebra.ipynb)
    * Linear Algebra II: Matrix Operations
-2. **Calculus**
+* **Calculus**
    * Calculus I: Limits & Derivatives
    * Calculus II: Partial Derivatives & Integrals
-3. **Statistics**
+* **Statistics**
    * Probabiliy & Information Theory
    * Intro to Statistics
-4. **Computer Science**
+* **Computer Science**
    * Algorithms & Data Structures
    * Optimization
 
@@ -39,3 +39,9 @@ As with other materials created by Jon Krohn (such as the book [Deep Learning Il
 #### Why Study the Foundations? 
 
 The purpose of this series it to provide you with a practical, functional understanding of the content covered. Context will be given for each topic, highlighting its relevance to machine learning. You will be better-positioned to understand cutting-edge machine learning papers and you will be provided with resources for digging even deeper into topics that pique your curiosity. 
+
+## Notebooks
+
+All code is provided within Jupyter notebooks [in this directory](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/). 
+
+These notebooks are intended for use within the (free) Colab cloud environment. However, if you're keen to run them locally, you're welcome to do so (for the Jupyter uninitiated, check out [the installation instructions here](https://github.com/jonkrohn/DLTFpT/tree/master/installation) for guidance). 
