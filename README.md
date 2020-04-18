@@ -49,6 +49,10 @@ The content in this series may be particularly relevant for you if:
 * You’re a **data scientist** who would like to reinforce your understanding of the subjects at the core of your professional discipline
 * You’re a **data analyst** or **A.I. enthusiast** who would like to become a data scientist or data/ML engineer, and so you’re keen to deeply understand the field you’re entering from the ground up (very wise of you!) 
 
+#### Prerequisities
+
+All code demos will be in Python so experience with it or another object-oriented programming language would be helpful for following along with the code examples.
+
 
 ## Notebooks
 
