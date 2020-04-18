@@ -16,7 +16,7 @@ The *Machine Learning Foundations* series provides a comprehensive overview of a
 The eight topics in the series are organized into four couplets: 
 
 * **Linear Algebra**
-   * [Intro to Linear Algebra](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/1_intro_to_linear_algebra.ipynb)
+   * [Intro to Linear Algebra](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/1_intro_to_linear_algebra.ipynb)
    * Linear Algebra II: Matrix Operations
 * **Calculus**
    * Calculus I: Limits & Derivatives
