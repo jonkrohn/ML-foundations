@@ -32,7 +32,7 @@ Later topics build upon content from earlier topics, so the recommended approach
 
 #### Pedagogical Approach
 
-As with other materials created by Jon Krohn (such as the book [Deep Learning Illustrated](https://www.deeplearningillustrated.com/) and his 18-hour video series [Deep Learning with TensorFlow, Keras, and PyTorch](https://github.com/jonkrohn/DLTFpT/)), the content in the series is brought to life through the combination of:
+As with other materials created by Jon Krohn (such as the book *[Deep Learning Illustrated](https://www.deeplearningillustrated.com/)* and his 18-hour video series *[Deep Learning with TensorFlow, Keras, and PyTorch](https://github.com/jonkrohn/DLTFpT/))*, the content in the series is brought to life through the combination of:
 
 * Vivid full-color illustrations 
 * Straightforward examples of Python code within hands-on Jupyter notebooks
