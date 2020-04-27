@@ -7,7 +7,7 @@ This repository is home to the code that accompanies Jon Krohn's *Machine Learni
 To stay informed of upcoming live trainings and new videos as they're released onto YouTube consider: 
 
 * Signing up for Jon Krohn's [email newsletter via his homepage](https://www.jonkrohn.com/)
-* Remembering to check for updates on his [talks page](https://www.jonkrohn.com/talks)
+* Or, remembering to check for updates on his [talks page](https://www.jonkrohn.com/talks)
 
 #### Content Covered
 
@@ -17,16 +17,16 @@ The eight topics in the series are organized into four couplets:
 
 * **Linear Algebra**
    * [Intro to Linear Algebra](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/1_intro_to_linear_algebra.ipynb)
-   * Linear Algebra II: Matrix Operations
+   * [Linear Algebra II: Matrix Operations](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/2-linear-algebra-ii.ipynb)
 * **Calculus**
-   * Calculus I: Limits & Derivatives
-   * Calculus II: Partial Derivatives & Integrals
+   * [Calculus I: Limits & Derivatives](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/3-calculus-i.ipynb)
+   * [Calculus II: Partial Derivatives & Integrals](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/4-calculus-ii.ipynb)
 * **Statistics**
-   * Probabiliy & Information Theory
-   * Intro to Statistics
+   * [Probabiliy & Information Theory](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/5-probability.ipynb)
+   * [Intro to Statistics](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/6-statistics.ipynb)
 * **Computer Science**
-   * Algorithms & Data Structures
-   * Optimization
+   * [Algorithms & Data Structures](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/7-algos-and-data-structures.ipynb)
+   * [Optimization](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/8-optimization.ipynb)
    
 Later topics build upon content from earlier topics, so the recommended approach is to progress through the eight topics in the order provided. That said, you're welcome to pick and choose individual topics based on your interest or existing familiarity with the material.
 
