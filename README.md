@@ -13,7 +13,7 @@ To stay informed of upcoming live trainings and new videos as they're released o
 
 The *Machine Learning Foundations* series provides a comprehensive overview of all of the foundational subjects -- mathematics, statistics, and computer science -- that underlie contemporary machine learning approaches, including deep learning and other artificial intelligence techniques. 
 
-The eight topics in the series are organized into four couplets: 
+The eight subjects in the series are organized into four couplets: 
 
 * **Linear Algebra**
    * [Intro to Linear Algebra](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/1-intro-to-linear-algebra.ipynb)
@@ -28,7 +28,7 @@ The eight topics in the series are organized into four couplets:
    * [Algorithms & Data Structures](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/7-algos-and-data-structures.ipynb)
    * [Optimization](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/8-optimization.ipynb)
    
-Later topics build upon content from earlier topics, so the recommended approach is to progress through the eight topics in the order provided. That said, you're welcome to pick and choose individual topics based on your interest or existing familiarity with the material.
+Later subjects build upon content from earlier subjects, so the recommended approach is to progress through the eight subjects in the order provided. That said, you're welcome to pick and choose individual subjects based on your interest or existing familiarity with the material.
 
 #### Pedagogical Approach
 
