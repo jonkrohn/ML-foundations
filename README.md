@@ -4,7 +4,7 @@
 
 This repository is home to the code that accompanies Jon Krohn's *Machine Learning Foundations* series of tutorials. From May 2020 through September 2020, these tutorials were rolled out as eight 3.5-hour-long [live online trainings in the O'Reilly learning platform](https://www.oreilly.com/search/?query=machine%20learning%20foundations&formats=live%20online%20training&sort=relevance). Separately, the content is being rolled out as free, professionally-edited videos via Jon Krohn's [*ML Foundations* YouTube playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a). 
 
-To stay informed of upcoming live trainings and new videos as they're released onto YouTube consider: 
+To stay informed of future live trainings and new video releases consider: 
 
 * Signing up for Jon Krohn's [email newsletter via his homepage](https://www.jonkrohn.com/)
 * Or, remembering to check for updates on his [talks page](https://www.jonkrohn.com/talks)
