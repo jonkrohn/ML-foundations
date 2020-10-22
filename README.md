@@ -2,7 +2,7 @@
 
 ### Where and When
 
-This repository is home to the code that accompanies Jon Krohn's *Machine Learning Foundations* series of tutorials, which were initially offered as eight 3.5-hour-long [live online trainings in the O'Reilly learning platform](https://www.oreilly.com/search/?query=machine%20learning%20foundations&formats=live%20online%20training&sort=relevance) from May 2020 through September 2020. The content is now being rolled out via several different platforms to suit whatever your preferred mode of learning is: 
+This repository is home to the code that accompanies Jon Krohn's *Machine Learning Foundations* series of tutorials, which were initially offered as eight 3.5-hour-long [live online trainings in the O'Reilly learning platform](https://www.oreilly.com/search/?query=machine%20learning%20foundations&formats=live%20online%20training&sort=relevance) from May 2020 through September 2020. The content is now being rolled out via several different platforms to suit your preferred mode of learning is: 
 
 * Free **YouTube** videos on Jon Krohn's [*ML Foundations* YouTube playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
 * **Udemy** courses (the [first one](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) is two hours long and free)
