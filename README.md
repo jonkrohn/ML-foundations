@@ -9,6 +9,12 @@ To stay informed of future live trainings and new video releases consider:
 * Signing up for Jon Krohn's [email newsletter via his homepage](https://www.jonkrohn.com/)
 * Or, remembering to check for updates on his [talks page](https://www.jonkrohn.com/talks)
 
+#### Notebooks
+
+All code is provided within Jupyter notebooks [in this directory](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/). 
+
+These notebooks are intended for use within the (free) [Colab cloud environment](https://colab.research.google.com). However, if you're keen to run them locally, you're welcome to do so (for the Jupyter uninitiated, check out [the installation instructions here](https://github.com/jonkrohn/DLTFpT/tree/master/installation) for guidance). 
+
 #### Content Covered
 
 The *Machine Learning Foundations* series provides a comprehensive overview of all of the foundational subjects -- mathematics, statistics, and computer science -- that underlie contemporary machine learning approaches, including deep learning and other artificial intelligence techniques. 
@@ -53,12 +59,6 @@ The content in this series may be particularly relevant for you if:
 
 All code demos will be in Python so experience with it or another object-oriented programming language would be helpful for following along with the code examples.
 
-
-## Notebooks
-
-All code is provided within Jupyter notebooks [in this directory](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/). 
-
-These notebooks are intended for use within the (free) [Colab cloud environment](https://colab.research.google.com). However, if you're keen to run them locally, you're welcome to do so (for the Jupyter uninitiated, check out [the installation instructions here](https://github.com/jonkrohn/DLTFpT/tree/master/installation) for guidance). 
 
 Finally, here's an illustration of Oboe, the *Machine Learning Foundations* mascot, created by the wonderful artist Aglaé Bassens: 
 
