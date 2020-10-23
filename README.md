@@ -8,6 +8,7 @@ This repository is home to the code that accompanies Jon Krohn's *Machine Learni
 * **Udemy**: The [first course is live](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/), two hours long, and free (more coming in late 2020)
 * **Open Data Science Conference [AI+ Platform](https://aiplus.odsc.com)**: Live and on-demand trainings (starting Nov 2020)
 * **[O'Reilly](https://learning.oreilly.com)**: Video courses and another round of live training (starting early 2021)
+* Book (chapter drafts to begin appearing in 2021)
 
 To stay informed of future live training sessions and new video releases consider: 
 
