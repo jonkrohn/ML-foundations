@@ -18,7 +18,7 @@ To stay informed of future live training sessions and new video releases conside
 
 All code is provided within Jupyter notebooks [in this directory](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/). 
 
-These notebooks are intended for use within the (free) [Colab cloud environment](https://colab.research.google.com). However, if you're keen to run them locally, you're welcome to do so (for the Jupyter uninitiated, check out [the installation instructions here](https://github.com/jonkrohn/DLTFpT/tree/master/installation) for guidance). 
+These notebooks are intended for use within the (free) [Colab cloud environment](https://colab.research.google.com). However, if you're keen to run them locally, you're welcome to do so (for the Jupyter uninitiated, check out [the installation instructions here](https://github.com/jonkrohn/DLTFpT/tree/master/installation) for high-level guidance but be sure to use the [*ML Foundations*-specific Dockerfile](https://github.com/jonkrohn/ML-foundations/blob/master/Dockerfile)). 
 
 ### Content Covered
 
