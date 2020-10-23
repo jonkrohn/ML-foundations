@@ -7,7 +7,7 @@ This repository is home to the code that accompanies Jon Krohn's *Machine Learni
 * Free **YouTube** videos on Jon Krohn's [*ML Foundations* YouTube playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
 * **Udemy** courses (the [first one](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) is two hours long and free)
 * Live and on-demand trainings in the **Open Data Science Conference [AI+ Platform](https://aiplus.odsc.com)** (starting Nov 2020)
-* Video courses and another round of live trainings in **[O'Reilly](https://learning.oreilly.com)** (early 2021)
+* Video courses and another round of live trainings in **[O'Reilly](https://learning.oreilly.com)** (starting early 2021)
 
 To stay informed of future live training sessions and new video releases consider: 
 
