@@ -10,7 +10,7 @@ This repository is home to the code that accompanies Jon Krohn's *Machine Learni
 * **O'Reilly**: Video courses and another round of live training in the [online learning platform](https://learning.oreilly.com) (starting early 2021)
 * Book (chapter drafts to begin appearing in 2021)
 
-(Note that the paid video options (Udemy, ODSC, and O'Reilly) contain exclusive exercises and comprehensive solution walk-throughs that are not available on YouTube. In the future, some of the paid options will also include interactive testing and the awarding of credentials for successful course completion.)
+(Note that the paid video options -- e.g., Udemy, ODSC, and O'Reilly -- contain exclusive exercises and comprehensive solution walk-throughs that are not available on YouTube. In the future, some of the paid options will also include interactive testing and the awarding of credentials for successful course completion.)
 
 To stay informed of future live training sessions and new video releases consider: 
 
