@@ -5,12 +5,12 @@
 This repository is home to the code that accompanies Jon Krohn's *Machine Learning Foundations* series of tutorials, which were initially offered as eight 3.5-hour-long [live online trainings in the O'Reilly learning platform](https://www.oreilly.com/search/?query=machine%20learning%20foundations&formats=live%20online%20training&sort=relevance) from May 2020 through September 2020. The content is now being rolled out via several different platforms to suit your preferred mode of learning: 
 
 * **YouTube**: Free videos via the [*ML Foundations* playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) (regular ongoing uploads since July 2020)
-* **Udemy**: The [first course is live in October 2020](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/), two hours long, and free (more coming in late 2020)
+* **Udemy**: The [first two hours went live in October 2020](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) (more coming in late 2020)
 * **Open Data Science Conference**: Live and on-demand trainings in the ODSC [AI+ Platform](https://aiplus.odsc.com) (starting Nov 2020)
 * **O'Reilly**: Video courses and another round of live training in the [online learning platform](https://learning.oreilly.com) (starting early 2021)
 * Book (chapter drafts to begin appearing in 2021)
 
-(Note that the paid video options -- e.g., Udemy, ODSC, and O'Reilly -- contain exclusive exercises and comprehensive solution walk-throughs that are not available on YouTube. In the future, some of the paid options will also include interactive testing and the awarding of credentials for successful course completion.)
+(Note that the paid video options -- e.g., Udemy, ODSC, and O'Reilly -- each contain exclusive exercises and comprehensive solution walk-throughs that are not available on YouTube. In the future, some of the paid options will also include interactive testing and the awarding of credentials for successful course completion.)
 
 To stay informed of future live training sessions and new video releases consider: 
 
