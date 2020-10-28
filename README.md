@@ -65,7 +65,10 @@ The content in this series may be particularly relevant for you if:
 
 ### Prerequisities
 
-All code demos will be in Python so experience with it or another object-oriented programming language would be helpful for following along with the code examples.
+**Programming**: All code demos will be in Python so experience with it or another object-oriented programming language would be helpful for following along with the code examples.
+
+**Mathematics**: Familiarity with secondary school-level mathematics will make the class easier to follow along with. If you are comfortable dealing with quantitative information -- such as understanding charts and rearranging simple equations -- then you should be well-prepared to follow along with all of the mathematics.
+
 
 
 Finally, here's an illustration of Oboe, the *Machine Learning Foundations* mascot, created by the wonderful artist [Aglaé Bassens](https://www.aglaebassens.com): 
