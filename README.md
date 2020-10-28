@@ -1,7 +1,5 @@
 # Machine Learning Foundations
 
-### Content Covered
-
 This repo is home to the code that accompanies Jon Krohn's *Machine Learning Foundations* course, which provides a comprehensive overview of all of the subjects -- across mathematics, statistics, and computer science -- that underlie contemporary machine learning approaches, including deep learning and other artificial intelligence techniques. 
 
 There are a total of eight subjects covered in the course, organized into four couplets: 
