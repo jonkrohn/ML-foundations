@@ -46,7 +46,7 @@ These notebooks are intended for use within the (free) [Colab cloud environment]
 ### Why Study the Foundations of Machine Learning? 
 
 <p align="center">
-  <img src="https://github.com/jonkrohn/ML-foundations/blob/master/img/ML-house.png" width="600" align="center">
+  <img src="https://github.com/jonkrohn/ML-foundations/blob/master/img/ML-house.png" width="400" align="center">
 </p>
 
 The content in this series may be particularly relevant for you if: 
