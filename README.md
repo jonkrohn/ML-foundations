@@ -42,17 +42,8 @@ All code is provided within Jupyter notebooks [in this directory](https://github
 
 These notebooks are intended for use within the (free) [Colab cloud environment](https://colab.research.google.com) and that is the only environment currently actively supported. That said, if you're keen to run the notebooks locally, you're welcome to do so (for the Jupyter and Docker uninitiated, check out [the installation instructions here](https://github.com/jonkrohn/DLTFpT/tree/master/installation)). 
 
-### Pedagogical Approach
-
-As with other materials created by Jon Krohn (such as the book *[Deep Learning Illustrated](https://www.deeplearningillustrated.com/)* and his 18-hour video series *[Deep Learning with TensorFlow, Keras, and PyTorch](https://github.com/jonkrohn/DLTFpT/))*, the content in the series is brought to life through the combination of:
-
-* Vivid full-color illustrations 
-* Straightforward examples of Python code within hands-on Jupyter notebooks
-* Comprehension exercises with fully-worked solutions
 
 ### Why Study the Foundations of Machine Learning? 
-
-The purpose of this series it to provide you with a practical, functional understanding of the content covered. Context will be given for each topic, highlighting its relevance to machine learning. You will be provided with resources for digging even deeper into topics that pique your curiosity. 
 
 <p align="center">
   <img src="https://github.com/jonkrohn/ML-foundations/blob/master/img/ML-house.png" width="600" align="center">
@@ -65,6 +56,19 @@ The content in this series may be particularly relevant for you if:
 * You’re a **data scientist** who would like to reinforce your understanding of the subjects at the core of your professional discipline
 * You’re a **data analyst** or **A.I. enthusiast** who would like to become a data scientist or data/ML engineer, and so you’re keen to deeply understand the field you’re entering from the ground up (very wise of you!) 
 * You're simply keen to understand the essentials of linear algebra, calculus, probability, stats, algorithms and/or data structures
+
+
+### Pedagogical Approach
+
+The purpose of this series it to provide you with a practical, functional understanding of the content covered. Context will be given for each topic, highlighting its relevance to machine learning. 
+
+As with other materials created by Jon Krohn (such as the book *[Deep Learning Illustrated](https://www.deeplearningillustrated.com/)* and his 18-hour video series *[Deep Learning with TensorFlow, Keras, and PyTorch](https://github.com/jonkrohn/DLTFpT/))*, the content in the series is brought to life through the combination of:
+
+* Vivid full-color illustrations 
+* Straightforward examples of Python code within hands-on Jupyter notebooks
+* Comprehension exercises with fully-worked solutions
+* Resources for digging even deeper into topics that pique your curiosity
+
 
 ### Prerequisities
 
