@@ -60,6 +60,7 @@ The content in this series may be particularly relevant for you if:
 * You’re a **software developer** who would like to develop a firm foundation for the deployment of machine learning algorithms into production systems
 * You’re a **data scientist** who would like to reinforce your understanding of the subjects at the core of your professional discipline
 * You’re a **data analyst** or **A.I. enthusiast** who would like to become a data scientist or data/ML engineer, and so you’re keen to deeply understand the field you’re entering from the ground up (very wise of you!) 
+* You're simply keen to understand the essentials of linear algebra, calculus, probability, stats, algorithms and/or data structures
 
 ### Prerequisities
 
