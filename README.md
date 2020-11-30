@@ -52,7 +52,11 @@ As with other materials created by Jon Krohn (such as the book *[Deep Learning I
 
 ### Why Study the Foundations of Machine Learning? 
 
-The purpose of this series it to provide you with a practical, functional understanding of the content covered. Context will be given for each topic, highlighting its relevance to machine learning. You will be better-positioned to understand cutting-edge machine learning papers and you will be provided with resources for digging even deeper into topics that pique your curiosity. 
+The purpose of this series it to provide you with a practical, functional understanding of the content covered. Context will be given for each topic, highlighting its relevance to machine learning. You will be provided with resources for digging even deeper into topics that pique your curiosity. 
+
+<p align="center">
+  <img src="https://github.com/jonkrohn/ML-foundations/blob/master/img/ML-house.png" width="600" align="center">
+</p>
 
 The content in this series may be particularly relevant for you if: 
 
