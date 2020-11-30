@@ -73,5 +73,5 @@ The content in this series may be particularly relevant for you if:
 Finally, here's an illustration of Oboe, the *Machine Learning Foundations* mascot, created by the wonderful artist [Aglaé Bassens](https://www.aglaebassens.com): 
 
 <p align="center">
-  <img src="https://github.com/jonkrohn/ML-foundations/blob/master/img/Oboe.jpg" width="100" align="center">
+  <img src="https://github.com/jonkrohn/ML-foundations/blob/master/img/Oboe.jpg" width="400" align="center">
 </p>
