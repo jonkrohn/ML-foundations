@@ -34,7 +34,7 @@ To stay informed of future live training sessions and new video releases conside
 * Signing up for Jon Krohn's [email newsletter via his homepage](https://www.jonkrohn.com/)
 * Or, remembering to check for updates on his [talks page](https://www.jonkrohn.com/talks)
 
-*(Note that the paid video options -- e.g., Udemy, ODSC, and O'Reilly -- each contain exclusive exercises and comprehensive solution walk-throughs that are not available on YouTube. In the future, some of the paid options will also include interactive testing and the awarding of credentials for successful course completion.)*
+*(Note that the paid video options -- e.g., Udemy, ODSC, and O'Reilly -- each contain exclusive exercises and comprehensive solution walk-throughs that are not available on YouTube. Some of the paid options also include exclusive, platform-specific features such as interactive testing, "cheat sheets" and the awarding of a certificate for successful course completion.)*
 
 ### Notebooks
 
