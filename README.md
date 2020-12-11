@@ -25,7 +25,7 @@ The eight *ML Foundations* subjects were initially offered by Jon Krohn as eight
 
 * **YouTube**: Free videos via the [*ML Foundations* playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) (regular ongoing uploads since July 2020)
 * **Udemy**: The first full subject, *Intro to Linear Algebra*, went [live in a course](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) in October 2020. We are adding the remaining subjects to the course as quickly as possible, aiming to have them all in the course in 2021.
-* **Open Data Science Conference**: Live and on-demand trainings in the ODSC [AI+ Platform](https://aiplus.odsc.com/pages/mlbootcamp) (Dec 2020 to Spring 2021)
+* **Open Data Science Conference**: Live trainings and videos in the ODSC [AI+ Platform](https://aiplus.odsc.com/pages/mlbootcamp) (live sessions from Dec 2020 to Spring 2021, with corresponding videos made available after each session)
 * **O'Reilly**: Video courses and another round of live training in the [online learning platform](https://learning.oreilly.com) (starting mid-2021)
 * Book (chapter drafts to begin appearing in 2021)
 
