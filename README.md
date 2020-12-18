@@ -32,12 +32,14 @@ The eight *ML Foundations* subjects were initially offered by Jon Krohn as eight
     * Another round of live training (starting mid-2021)
 * Book (chapter drafts to begin appearing in 2021)
 
+*(Note that the paid video options -- e.g., Udemy, ODSC, and O'Reilly -- each contain exclusive exercises and comprehensive solution walk-throughs that are not available on YouTube. Some of the paid options also include exclusive, platform-specific features such as interactive testing, "cheat sheets" and the awarding of a certificate for successful course completion.)*
+
+### Push Notifications
+
 To stay informed of future live training sessions and new video releases consider: 
 
 * Signing up for Jon Krohn's [email newsletter via his homepage](https://www.jonkrohn.com/)
 * Or, remembering to check for updates on his [talks page](https://www.jonkrohn.com/talks)
-
-*(Note that the paid video options -- e.g., Udemy, ODSC, and O'Reilly -- each contain exclusive exercises and comprehensive solution walk-throughs that are not available on YouTube. Some of the paid options also include exclusive, platform-specific features such as interactive testing, "cheat sheets" and the awarding of a certificate for successful course completion.)*
 
 ### Notebooks
 
