@@ -51,7 +51,7 @@ These notebooks are intended for use within the (free) [Colab cloud environment]
 ### The Machine Learning House
 
 <p align="center">
-  <img src="https://github.com/jonkrohn/ML-foundations/blob/master/img/ML-house.png" width="400" align="center">
+  <img src="https://github.com/jonkrohn/ML-foundations/blob/master/img/ML-house.png" width="500" align="center">
 </p>
 
 To be an outstanding data scientist or ML engineer, it doesn't suffice to only know how to use ML algorithms via the abstract interfaces that the most popular libraries (e.g., scikit-learn, Keras) provide. To train innovative models or deploy them efficiently in production, an in-depth appreciation of machine learning theory (pictured as the central, purple floor of the "Machine Learning House") is required. And, to cultivate such in-depth appreciation of ML, one must possess a working understanding of the four foundational subjects.
@@ -86,7 +86,7 @@ As with other materials created by Jon Krohn (such as the book *[Deep Learning I
 **Mathematics**: Familiarity with secondary school-level mathematics will make the class easier to follow along with. If you are comfortable dealing with quantitative information -- such as understanding charts and rearranging simple equations -- then you should be well-prepared to follow along with all of the mathematics.
 
 
-### Oboe ###
+### Oboe
 
 Finally, here's an illustration of Oboe, the *Machine Learning Foundations* mascot, created by the wonderful artist [Aglaé Bassens](https://www.aglaebassens.com): 
 
