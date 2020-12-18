@@ -48,7 +48,7 @@ All code is provided within Jupyter notebooks [in this directory](https://github
 These notebooks are intended for use within the (free) [Colab cloud environment](https://colab.research.google.com) and that is the only environment currently actively supported. That said, if you're keen to run the notebooks locally, you're welcome to do so (for the Jupyter and Docker uninitiated, check out [the installation instructions here](https://github.com/jonkrohn/DLTFpT/tree/master/installation)). 
 
 
-### Why Study the Foundations of Machine Learning? 
+### The Machine Learning House
 
 <p align="center">
   <img src="https://github.com/jonkrohn/ML-foundations/blob/master/img/ML-house.png" width="400" align="center">
