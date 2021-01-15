@@ -54,17 +54,19 @@ These notebooks are intended for use within the (free) [Colab cloud environment]
   <img src="https://github.com/jonkrohn/ML-foundations/blob/master/img/ML-house.png" width="500" align="center">
 </p>
 
-To be an outstanding data scientist or ML engineer, it doesn't suffice to only know how to use ML algorithms via the abstract interfaces that the most popular libraries (e.g., scikit-learn, Keras) provide. To train innovative models or deploy them to run performantly in production, an in-depth appreciation of machine learning theory (pictured as the central, purple floor of the "Machine Learning House") is required. And, to cultivate such in-depth appreciation of ML, one must possess a working understanding of the four foundational subjects.
+To be an outstanding data scientist or ML engineer, it doesn't suffice to only know how to use ML algorithms via the abstract interfaces that the most popular libraries (e.g., scikit-learn, Keras) provide. To train innovative models or deploy them to run performantly in production, an in-depth appreciation of machine learning theory (pictured as the central, purple floor of the "Machine Learning House") is required. And, to cultivate such in-depth appreciation of ML, one must possess a working understanding of the foundational subjects.
 
-When the foundations of the "Machine Learning House" are firm, it also makes it much easier to make the jump from general ML principles (purple floor) to specialized ML domains (the top floor, shown in gray) such as deep learning, natural language processing, machine vision, and reinforcement learning. This is because, the more specialized the application, the more likely its details for implementation are available only in academic papers or graduate-level textbooks, either of which typically assume an understanding of the four foundational subjects.
+When the foundations of the "Machine Learning House" are firm, it also makes it much easier to make the jump from general ML principles (purple floor) to specialized ML domains (the top floor, shown in gray) such as deep learning, natural language processing, machine vision, and reinforcement learning. This is because, the more specialized the application, the more likely its details for implementation are available only in academic papers or graduate-level textbooks, either of which typically assume an understanding of the foundational subjects.
 
 The content in this series may be particularly relevant for you if: 
 
 * **You use high-level software libraries** to train or deploy machine learning algorithms, and would now like to understand the fundamentals underlying the abstractions, enabling you to expand your capabilities
-* You’re a **software developer** who would like to develop a firm foundation for the deployment of machine learning algorithms into production systems
 * You’re a **data scientist** who would like to reinforce your understanding of the subjects at the core of your professional discipline
+* You’re a **software developer** who would like to develop a firm foundation for the deployment of machine learning algorithms into production systems
 * You’re a **data analyst** or **A.I. enthusiast** who would like to become a data scientist or data/ML engineer, and so you’re keen to deeply understand the field you’re entering from the ground up (very wise of you!) 
 * You're simply keen to understand the essentials of linear algebra, calculus, probability, stats, algorithms and/or data structures
+
+The foundational subjects have largely been unchanged in recent decades and are likely to remain so for the coming decades, yet they're critical across all machine learning and data science approaches. Thus, the foundations provide a solid, career-long bedrock. 
 
 
 ### Pedagogical Approach
