@@ -28,7 +28,7 @@ The eight *ML Foundations* subjects were initially offered by Jon Krohn as eight
 * **O'Reilly**:
     * [Linear Algebra videos](https://learning.oreilly.com/videos/linear-algebra-for/9780137398119/) published in December 2020
     * [Calculus videos](https://learning.oreilly.com/videos/calculus-for-machine/9780137398171/) published in January 2021
-    * Prob/Stats and CS videos to follow in mid-2021
+    * Prob/Stats and CS videos to follow in 2021
     * Another round of live training starting mid-2021
 * **Open Data Science Conference**: Live trainings and videos in the ODSC [Ai+ Platform](https://aiplus.odsc.com/pages/mlbootcamp) (live sessions from Dec 2020 to Spring 2021, with corresponding videos made available after each session)
 * Book (chapter drafts to begin appearing in 2021)
