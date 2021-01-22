@@ -23,7 +23,7 @@ Later subjects build upon content from earlier subjects, so the recommended appr
 
 The eight *ML Foundations* subjects were initially offered by Jon Krohn as eight 4-hour [live online trainings in the O'Reilly learning platform](https://www.oreilly.com/search/?query=machine%20learning%20foundations&formats=live%20online%20training&sort=relevance) from May 2020 through September 2020. The content is now being rolled out via several different platforms to suit your preferred mode of learning: 
 
-* **YouTube**: Free videos via the [*ML Foundations* playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a). Regular ongoing uploads started in July 2020 and we're aiming to have the entire series uploaded in 2021. 
+* **YouTube**: See the [*ML Foundations* playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a). Regular ongoing uploads started in July 2020 and we're aiming to have the entire series uploaded in 2021. 
 * **Udemy**: The first full subject, *Intro to Linear Algebra*, went [live in a course](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) in October 2020. We are adding the remaining subjects to the course as quickly as possible, aiming to have them all in the course in 2021.
 * **O'Reilly**:
     * [Linear Algebra videos](https://learning.oreilly.com/videos/linear-algebra-for/9780137398119/) published in December 2020
