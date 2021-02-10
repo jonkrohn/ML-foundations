@@ -37,10 +37,7 @@ The eight *ML Foundations* subjects were initially offered by Jon Krohn as eight
 
 ### Push Notifications
 
-To stay informed of future live training sessions and new video releases consider: 
-
-* Signing up for Jon Krohn's [email newsletter via his homepage](https://www.jonkrohn.com/)
-* Or, remembering to check for updates on his [talks page](https://www.jonkrohn.com/talks)
+To stay informed of future live training sessions and new video releases consider signing up for Jon Krohn's [email newsletter via his homepage](https://www.jonkrohn.com/).
 
 ### Notebooks
 
