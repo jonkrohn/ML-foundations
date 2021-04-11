@@ -23,17 +23,18 @@ Later subjects build upon content from earlier subjects, so the recommended appr
 
 The eight *ML Foundations* subjects were initially offered by Jon Krohn as eight 4-hour [live online trainings in the O'Reilly learning platform](https://www.oreilly.com/search/?query=machine%20learning%20foundations&formats=live%20online%20training&sort=relevance) from May 2020 through September 2020. The content is now being rolled out via several different platforms to suit your preferred mode of learning: 
 
-* **YouTube**: See the [*ML Foundations* playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a). Regular ongoing uploads started in July 2020 and we're aiming to have the entire series uploaded in 2021. 
-* **Udemy**: The first full subject, *Intro to Linear Algebra*, went [live in a course](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) in October 2020. We are adding the remaining subjects to the course as quickly as possible, aiming to have them all in the course in 2021.
+* **YouTube**: See the [*ML Foundations* playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a). Regular ongoing uploads started in July 2020 and we're working as quickly as we can to record and publish the entire series. 
+* **Udemy**: The first full subject, *Intro to Linear Algebra*, went [live in a course](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) in October 2020. We are adding the remaining subjects to the course as quickly as possible; we anticipate half of the subjects (i.e., all of the Linear Algebra and Calculus) will be live in Spring 2021.
 * **O'Reilly**:
     * [Linear Algebra videos](https://learning.oreilly.com/videos/linear-algebra-for/9780137398119/) published in December 2020
     * [Calculus videos](https://learning.oreilly.com/videos/calculus-for-machine/9780137398171/) published in January 2021
-    * Prob/Stats and CS videos to follow in 2021
-    * Another round of live training starting mid-2021
-* **Open Data Science Conference**: Live trainings and videos in the ODSC [Ai+ Platform](https://aiplus.odsc.com/pages/mlbootcamp) (live sessions from Dec 2020 to Spring 2021, with corresponding videos made available after each session)
+    * Probability and Stats videos are filmed and being edited; to be published in Spring 2021.
+    * Computer Science videos will be filmed in May 2021.
+    * Live training: The entire series will be taught online by Jon Krohn from July to December 2021 (see [jonkrohn.com/talks](jonkrohn.com/talks) for individual lecture dates)
+* **Open Data Science Conference**: Live trainings and videos in the ODSC [Ai+ Platform](https://aiplus.odsc.com/pages/mlbootcamp) (live sessions from Dec 2020 to June 2021; corresponding videos made available after each session)
 * Book (chapter drafts to begin appearing in 2021)
 
-*(Note that the paid video options -- e.g., Udemy, ODSC, and O'Reilly -- each contain exclusive exercises and comprehensive solution walk-throughs that are not available on YouTube. Some of the paid options also include exclusive, platform-specific features such as interactive testing, "cheat sheets" and the awarding of a certificate for successful course completion.)*
+*(Note that while YouTube contains 100% of the taught content, the paid options -- e.g., Udemy, ODSC, and O'Reilly -- each contain exclusive exercises and comprehensive solution walk-throughs that are not available on YouTube. Some of the paid options also include exclusive, platform-specific features such as interactive testing, "cheat sheets" and the awarding of a certificate for successful course completion.)*
 
 ### Push Notifications
 
