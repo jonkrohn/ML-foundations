@@ -21,7 +21,7 @@ Later subjects build upon content from earlier subjects, so the recommended appr
 
 ### Where and When
 
-The eight *ML Foundations* subjects were initially offered by [Jon Krohn](jonkrohn.com) as live online trainings in the (O'Reilly learning platform)[oreilly.com] from May-Sep 2020. To suit your preferred mode of learning, the content is now available via several means: 
+The eight *ML Foundations* subjects were initially offered by [Jon Krohn](jonkrohn.com) as live online trainings in the [O'Reilly learning platform](oreilly.com) from May-Sep 2020. To suit your preferred mode of learning, the content is now available via several means: 
 
 * **YouTube**: See the [*ML Foundations* playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a). Regular ongoing uploads started in Jul 2020. All the Linear Algebra content has been live since Apr 2021. We're working as quickly as we can to publish the remaining subjects.
 * **Udemy**: All the Linear Algebra content has been [live in a course](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) since Apr 2021; all of the Calculus content will be added in Spring 2021. At that point, the first four subjects could stand alone as a *Mathematical* Foundations of ML course, but we will nevertheless continue to add Subjects 5-8 as quickly as we can.
