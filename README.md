@@ -1,8 +1,8 @@
 # Machine Learning Foundations
 
-This repo is home to the code that accompanies Jon Krohn's *Machine Learning Foundations* course, which provides a comprehensive overview of all of the subjects -- across mathematics, statistics, and computer science -- that underlie contemporary machine learning approaches, including deep learning and other artificial intelligence techniques. 
+This repo is home to the code that accompanies Jon Krohn's *Machine Learning Foundations* curriculum, which provides a comprehensive overview of all of the subjects —- across mathematics, statistics, and computer science —- that underlie contemporary machine learning approaches, including deep learning and other artificial intelligence techniques.
 
-There are a total of eight subjects covered in the course, organized into four couplets: 
+There are eight subjects in the curriculum, organized into four subject areas. See the "Machine Learning House" section below for detail on why these are the essential foundational subject areas: 
 
 * **Linear Algebra**
    * 1: [Intro to Linear Algebra](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/1-intro-to-linear-algebra.ipynb)
@@ -17,28 +17,28 @@ There are a total of eight subjects covered in the course, organized into four c
    * 7: [Algorithms & Data Structures](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/7-algos-and-data-structures.ipynb)
    * 8: [Optimization](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/8-optimization.ipynb)
    
-Later subjects build upon content from earlier subjects, so the recommended approach is to progress through the eight subjects in the order provided. That said, you're welcome to pick and choose individual subjects based on your interest or existing familiarity with the material.
+Later subjects build upon content from earlier subjects, so the recommended approach is to progress through the eight subjects in the order provided. That said, you're welcome to pick and choose individual subjects based on your interest or existing familiarity with the material. In particular, each of the four subject areas are fairly independent so could be approached separately. 
 
 ### Where and When
 
-The eight *ML Foundations* subjects were initially offered by Jon Krohn as eight 4-hour [live online trainings in the O'Reilly learning platform](https://www.oreilly.com/search/?query=machine%20learning%20foundations&formats=live%20online%20training&sort=relevance) from May 2020 through September 2020. The content is now being rolled out via several different platforms to suit your preferred mode of learning: 
+The eight *ML Foundations* subjects were initially offered by [Jon Krohn](jonkrohn.com) as live online trainings in the (O'Reilly learning platform)[oreilly.com] from May-Sep 2020. To suit your preferred mode of learning, the content is now available via several means: 
 
-* **YouTube**: See the [*ML Foundations* playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a). Regular ongoing uploads started in July 2020 and we're working as quickly as we can to record and publish the entire series. 
-* **Udemy**: The first full subject, *Intro to Linear Algebra*, went [live in a course](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) in October 2020. We are adding the remaining subjects to the course as quickly as possible; we anticipate half of the subjects (i.e., all of the Linear Algebra and Calculus) will be live in Spring 2021.
+* **YouTube**: See the [*ML Foundations* playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a). Regular ongoing uploads started in Jul 2020. All the Linear Algebra content has been live since Apr 2021. We're working as quickly as we can to publish the remaining subjects.
+* **Udemy**: All the Linear Algebra content has been [live in a course](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) since Apr 2021; all of the Calculus content will be added in Spring 2021. At that point, the first four subjects could stand alone as a *Mathematical* Foundations of ML course, but we will nevertheless continue to add Subjects 5-8 as quickly as we can.
 * **O'Reilly**:
-    * [Linear Algebra videos](https://learning.oreilly.com/videos/linear-algebra-for/9780137398119/) published in December 2020
-    * [Calculus videos](https://learning.oreilly.com/videos/calculus-for-machine/9780137398171/) published in January 2021
-    * Probability and Stats videos are filmed and being edited; to be published in Spring 2021.
+    * [Linear Algebra videos](https://learning.oreilly.com/videos/linear-algebra-for/9780137398119/) published in Dec 2020
+    * [Calculus videos](https://learning.oreilly.com/videos/calculus-for-machine/9780137398171/) published in Jan 2021
+    * Probability and Stats videos are filmed and being edited; to be published in May 2021.
     * Computer Science videos will be filmed in May 2021.
-    * Live training: The entire series will be taught online by Jon Krohn from July to December 2021 (see [jonkrohn.com/talks](jonkrohn.com/talks) for individual lecture dates)
-* **Open Data Science Conference**: Live trainings and videos in the ODSC [Ai+ Platform](https://aiplus.odsc.com/pages/mlbootcamp) (live sessions from Dec 2020 to June 2021; corresponding videos made available after each session)
-* Book (chapter drafts to begin appearing in 2021)
+    * Live training: The entire series will be taught [online](oreilly.com) by Jon Krohn from Jul-Dec 2021 (see [jonkrohn.com/talks](jonkrohn.com/talks) for individual lecture dates).
+* **Open Data Science Conference**: Live trainings and videos in the ODSC [Ai+ Platform](https://aiplus.odsc.com/pages/mlbootcamp) (live sessions from Dec 2020 to Jun 2021; corresponding videos made available after each session)
+* **Book**: Chapter drafts to begin appearing in 2021
 
-*(Note that while YouTube contains 100% of the taught content, the paid options -- e.g., Udemy, ODSC, and O'Reilly -- each contain exclusive exercises and comprehensive solution walk-throughs that are not available on YouTube. Some of the paid options also include exclusive, platform-specific features such as interactive testing, "cheat sheets" and the awarding of a certificate for successful course completion.)*
+*(Note that while YouTube contains 100% of the taught content, the paid options -- e.g., Udemy, O'Reilly, and ODSC -- contain comprehensive solution walk-throughs for exercises that are not available on YouTube. Some of the paid options also include exclusive, platform-specific features such as interactive testing, "cheat sheets" and the awarding of a certificate for successful course completion.)*
 
 ### Push Notifications
 
-To stay informed of future live training sessions and new video releases consider signing up for Jon Krohn's [email newsletter via his homepage](https://www.jonkrohn.com/).
+To stay informed of future live training sessions, new video releases, and book chapter releases, consider signing up for Jon Krohn's [email newsletter via his homepage](https://www.jonkrohn.com/).
 
 ### Notebooks
 
@@ -53,7 +53,7 @@ These notebooks are intended for use within the (free) [Colab cloud environment]
   <img src="https://github.com/jonkrohn/ML-foundations/blob/master/img/ML-house.png" width="500" align="center">
 </p>
 
-To be an outstanding data scientist or ML engineer, it doesn't suffice to only know how to use ML algorithms via the abstract interfaces that the most popular libraries (e.g., scikit-learn, Keras) provide. To train innovative models or deploy them to run performantly in production, an in-depth appreciation of machine learning theory (pictured as the central, purple floor of the "Machine Learning House") is required. And, to cultivate such in-depth appreciation of ML, one must possess a working understanding of the foundational subjects.
+To be an outstanding data scientist or ML engineer, it doesn't suffice to only know how to use ML algorithms via the abstract interfaces that the most popular libraries (e.g., scikit-learn, Keras) provide. To train innovative models or deploy them to run performantly in production, an in-depth appreciation of machine learning theory (pictured as the central, purple floor of the "Machine Learning House") may be helpful or essential. And, to cultivate such in-depth appreciation of ML, one must possess a working understanding of the foundational subjects.
 
 When the foundations of the "Machine Learning House" are firm, it also makes it much easier to make the jump from general ML principles (purple floor) to specialized ML domains (the top floor, shown in gray) such as deep learning, natural language processing, machine vision, and reinforcement learning. This is because, the more specialized the application, the more likely its details for implementation are available only in academic papers or graduate-level textbooks, either of which typically assume an understanding of the foundational subjects.
 
