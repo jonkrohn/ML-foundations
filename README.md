@@ -30,7 +30,7 @@ The eight *ML Foundations* subjects were initially offered by [Jon Krohn](jonkro
     * [Calculus videos](https://learning.oreilly.com/videos/calculus-for-machine/9780137398171/) published in Jan 2021
     * [Probability and Stats videos](https://learning.oreilly.com/videos/probability-and-statistics/9780137566273/) published in May 2021
     * Computer Science videos will be filmed in May 2021.
-    * Live training: The entire series [will be taught online](www.oreilly.com) by Jon Krohn from Jul-Dec 2021 (see [jonkrohn.com/talks](jonkrohn.com/talks) for individual lecture dates).
+    * Live training: The entire series [will be taught online](https://www.oreilly.com) by Jon Krohn from Jul-Dec 2021 (see [jonkrohn.com/talks](https://www.jonkrohn.com/talks) for individual lecture dates).
 * **Open Data Science Conference**: Live trainings and videos in the ODSC [Ai+ Platform](https://aiplus.odsc.com/pages/mlbootcamp) (live sessions from Dec 2020 to Jun 2021; corresponding videos made available after each session)
 * **Book**: Chapter drafts to begin appearing in 2021
 
