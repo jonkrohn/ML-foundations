@@ -25,7 +25,7 @@ The eight *ML Foundations* subjects were initially offered by [Jon Krohn](jonkro
 
 * **YouTube**:
     * All the Linear Algebra videos are live: [playlist here](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) and [detailed blog post here](https://www.jonkrohn.com/posts/2021/5/9/linear-algebra-for-machine-learning-complete-math-course-on-youtube)
-    * As of May 2021, Calculus videos are being published every Monday and Thursday: [playlist here]
+    * As of May 2021, Calculus videos are being published every Monday and Thursday: [playlist here](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
 * **O'Reilly**:
     * [Linear Algebra videos](https://learning.oreilly.com/videos/linear-algebra-for/9780137398119/) published in Dec 2020
     * [Calculus videos](https://learning.oreilly.com/videos/calculus-for-machine/9780137398171/) published in Jan 2021
