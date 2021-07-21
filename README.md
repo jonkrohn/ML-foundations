@@ -25,13 +25,13 @@ The eight *ML Foundations* subjects were initially offered by [Jon Krohn](jonkro
 
 * **YouTube**
     * All the Linear Algebra videos are live: [playlist here](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) and [detailed blog post here](https://www.jonkrohn.com/posts/2021/5/9/linear-algebra-for-machine-learning-complete-math-course-on-youtube)
-    * As of May 2021, Calculus videos are being published every Monday and Thursday: [playlist here](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
+    * As of May 2021, new Calculus videos are being published every Wednesday: [playlist here](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
 * **O'Reilly**
     * [Linear Algebra videos](https://learning.oreilly.com/videos/linear-algebra-for/9780137398119/) published in Dec 2020 ([free sample](https://www.youtube.com/watch?v=uG_wjmuigGg))
     * [Calculus videos](https://learning.oreilly.com/videos/calculus-for-machine/9780137398171/) published in Jan 2021 ([free sample](https://youtu.be/ZDAX17OGMAM))
     * [Probability and Stats videos](https://learning.oreilly.com/videos/probability-and-statistics/9780137566273/) published in May 2021 ([free sample](https://youtu.be/uJcGj-k50iE))
     * [Computer Science videos](https://learning.oreilly.com/videos/data-structures-algorithms/9780137644889/) published in June 2021
-    * Live training: The entire series [will be taught online](https://www.oreilly.com) by Jon Krohn from Jul-Dec 2021 (see [jonkrohn.com/talks](https://www.jonkrohn.com/talks) for individual lecture dates).
+    * Live training: The entire series [is being taught online](https://www.oreilly.com) by Jon Krohn from Jul-Dec 2021 (see [jonkrohn.com/talks](https://www.jonkrohn.com/talks) for individual lecture dates).
 * **Udemy**: All the Linear Algebra content has been [live in a course](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) since Apr 2021; all of the Calculus content is being added over Spring 2021. At that point, the first four subjects could stand alone as a *Mathematical Foundations of ML* course, but we will nevertheless continue to add Subjects 5-8 as quickly as we can.
 * **Open Data Science Conference**: The entire series was taught live online from Dec 2020 to Jun 2021. On-demand recordings of all these trainings are now available in the [Ai+ Platform](https://aiplus.odsc.com/pages/mlbootcamp).
 * **Book**: Chapter drafts to begin appearing in 2021
