@@ -46,7 +46,7 @@ To stay informed of future live training sessions, new video releases, and book 
 
 All code is provided within Jupyter notebooks [in this directory](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/). 
 
-These notebooks are intended for use within the (free) [Colab cloud environment](https://colab.research.google.com) and that is the only environment currently actively supported. That said, if you're keen to run the notebooks locally, you're welcome to do so (for the Jupyter and Docker uninitiated, check out the installation instructions from another [code repo of mine here](https://github.com/jonkrohn/DLTFpT/tree/master/installation), which you might be able to reconfigure for this ML Foundations repo). 
+These notebooks are intended for use within the (free) [Colab cloud environment](https://colab.research.google.com) and that is the only environment currently actively supported. That said, if you are familiar with running Jupyter notebooks locally, you're welcome to do so.
 
 
 ### The Machine Learning House
