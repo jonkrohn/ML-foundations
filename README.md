@@ -21,7 +21,7 @@ Later subjects build upon content from earlier subjects, so the recommended appr
 
 ### Where and When
 
-The eight *ML Foundations* subjects were initially offered by [Jon Krohn](jonkrohn.com) as live online trainings in the [O'Reilly learning platform](oreilly.com) from May-Sep 2020 (and were offered a second time from Jul-Dec 2021; see [jonkrohn.com/talks](https://www.jonkrohn.com/talks) for individual lecture dates). 
+The eight *ML Foundations* subjects were initially offered by [Jon Krohn](jonkrohn.com) as live online trainings in the [O'Reilly learning platform](oreilly.com) from May-Sep 2020 (and were offered a second time from Jul-Dec 2021; see [here](https://www.jonkrohn.com/talks) for individual lecture dates). 
 
 To suit your preferred mode of learning, the content is now available via several channels: 
 
