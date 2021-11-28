@@ -35,7 +35,7 @@ The eight *ML Foundations* subjects were initially offered by [Jon Krohn](jonkro
     * Live training: The entire series [is being taught online](https://www.oreilly.com) by Jon Krohn from Jul-Dec 2021 (see [jonkrohn.com/talks](https://www.jonkrohn.com/talks) for individual lecture dates).
 * **Udemy**: All the Linear Algebra and Calculus content has been [live in a *Mathematical Foundations of ML* course](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) since Sep 2021 (free overview video [here](https://youtu.be/qhLo19EIA4g)). While this course stands alone as a complete introduction to the math subjects, Subjects 5-8 will eventually be added as free bonus material. 
 * **Open Data Science Conference**: The entire series was taught live online from Dec 2020 to Jun 2021. On-demand recordings of all these trainings are now available in the [Ai+ Platform](https://aiplus.odsc.com/pages/mlbootcamp).
-* **Book**: Chapter drafts to begin appearing in 2021
+* **Book**: Chapter drafts to begin appearing in 2022
 
 *(Note that while YouTube contains 100% of the taught content, the paid options -- e.g., Udemy, O'Reilly, and ODSC -- contain comprehensive solution walk-throughs for exercises that are not available on YouTube. Some of the paid options also include exclusive, platform-specific features such as interactive testing, "cheat sheets" and the awarding of a certificate for successful course completion.)*
 
@@ -87,7 +87,7 @@ As with other materials created by Jon Krohn (such as the book *[Deep Learning I
 
 **Programming**: All code demos will be in Python so experience with it or another object-oriented programming language would be helpful for following along with the code examples.
 
-**Mathematics**: Familiarity with secondary school-level mathematics will make the class easier to follow along with. If you are comfortable dealing with quantitative information -- such as understanding charts and rearranging simple equations -- then you should be well-prepared to follow along with all of the mathematics.
+**Mathematics**: Familiarity with secondary school-level mathematics will make the class easier to follow along with. If you are comfortable dealing with quantitative information – such as understanding charts and rearranging simple equations — then you should be well-prepared to follow along with all of the mathematics. 
 
 
 ### Oboe
