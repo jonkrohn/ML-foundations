@@ -86,9 +86,9 @@ As with other materials created by Jon Krohn (such as the book *[Deep Learning I
 
 ### Prerequisities
 
-**Programming**: All code demos will be in Python so experience with it or another object-oriented programming language would be helpful for following along with the code examples.
+**Programming**: All code demos will be in Python so experience with it or another object-oriented programming language would be helpful for following along with the code examples. A good (and free!) resource for getting started with Python is Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/).
 
-**Mathematics**: Familiarity with secondary school-level mathematics will make the class easier to follow along with. If you are comfortable dealing with quantitative information – such as understanding charts and rearranging simple equations — then you should be well-prepared to follow along with all of the mathematics. 
+**Mathematics**: Familiarity with secondary school-level mathematics will make the class easier to follow along with. If you are comfortable dealing with quantitative information – such as understanding charts and rearranging simple equations — then you should be well-prepared to follow along with all of the mathematics. If you discover you have some math gaps as you work through this *ML Foundations* curriculum, I recommend the free, comprehensive [Khan Academy](https://www.khanacademy.org) to fill those gaps in.
 
 
 ### Oboe
