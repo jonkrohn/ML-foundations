@@ -85,7 +85,7 @@ As with other materials created by Jon Krohn (such as the book *[Deep Learning I
 * Resources for digging even deeper into topics that pique your curiosity
 
 
-### Prerequisities
+### Prerequisites
 
 **Programming**: All code demos will be in Python so experience with it or another object-oriented programming language would be helpful for following along with the code examples. A good (and free!) resource for getting started with Python is Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/).
 
