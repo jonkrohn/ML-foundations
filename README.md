@@ -29,7 +29,7 @@ To suit your preferred mode of learning, the content is now available via severa
     * Linear Algebra [complete playlist here](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) and [detailed blog post here](https://www.jonkrohn.com/posts/2021/5/9/linear-algebra-for-machine-learning-complete-math-course-on-youtube)
     * Calculus [complete playlist here](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
     * [Probability playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQWwJ1mh4tCUxlLfZ76C1zge) is in active development
-    * By continuing to release a new video every Wednesday, all of the subjects of my ML Foundations curriculum will eventually be freely available on YouTube.
+    * In time, all of the subjects of my ML Foundations curriculum will be freely available on YouTube.
 * **O'Reilly**
     * [Linear Algebra videos](https://learning.oreilly.com/videos/linear-algebra-for/9780137398119/) published in Dec 2020 ([free hour-long lesson](https://www.youtube.com/watch?v=uG_wjmuigGg))
     * [Calculus videos](https://learning.oreilly.com/videos/calculus-for-machine/9780137398171/) published in Jan 2021 ([free hour-long lesson](https://youtu.be/ZDAX17OGMAM))
