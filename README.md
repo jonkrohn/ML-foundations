@@ -30,7 +30,7 @@ To suit your preferred mode of learning, the content is now available via severa
     * Calculus [complete playlist here](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
     * [Probability playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQWwJ1mh4tCUxlLfZ76C1zge) is in active development
     * In time, all of the subjects of my ML Foundations curriculum will be freely available on YouTube.
-* **O'Reilly** (many employers and educational institutions provide free access to this platform)
+* **O'Reilly** (many employers and educational institutions provide free access to this platform; if you don't have access, you can get a 30-day free trial with the code `SDSPOD23`)
     * [Linear Algebra videos](https://learning.oreilly.com/videos/linear-algebra-for/9780137398119/) published in Dec 2020 ([free hour-long lesson](https://www.youtube.com/watch?v=uG_wjmuigGg))
     * [Calculus videos](https://learning.oreilly.com/videos/calculus-for-machine/9780137398171/) published in Jan 2021 ([free hour-long lesson](https://youtu.be/ZDAX17OGMAM))
     * [Probability and Stats videos](https://learning.oreilly.com/videos/probability-and-statistics/9780137566273/) published in May 2021 ([free hour-long lesson](https://youtu.be/uJcGj-k50iE))
