@@ -83,6 +83,7 @@ As with other materials created by Jon Krohn (such as the book *[Deep Learning I
 * Vivid full-color illustrations 
 * Paper-and-pencil comprehension exercises with fully-worked solutions
 * Hundreds of straightforward examples of Python code within hands-on Jupyter notebooks (with a particular focus on the PyTorch and TensorFlow libraries)
+* Practical ML applications
 * Resources for digging even deeper into topics that pique your curiosity
 
 
