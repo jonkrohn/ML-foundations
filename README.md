@@ -38,7 +38,7 @@ To suit your preferred mode of learning, the content is now available via severa
     * (For convenience, this publisher compiled all 28 hours of the above four video series into a single playlist [here](https://learning.oreilly.com/videos/-/9780137903245/).)
 * **Udemy**: All the Linear Algebra and Calculus content has been [live in a *Mathematical Foundations of ML* course](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) since Sep 2021 (free overview video [here](https://youtu.be/qhLo19EIA4g)). While this course stands alone as a complete introduction to the math subjects, Subjects 5-8 will eventually be added as free bonus material. 
 * **Open Data Science Conference**: The entire series was taught live online from Dec 2020 to Jun 2021. On-demand recordings of all these trainings are now available in the [Ai+ Platform](https://aiplus.odsc.com/pages/mlbootcamp).
-* **Book**: Chapter drafts to begin appearing in 2022
+* **Book**: A book deal with Pearson is in place; eventually I'll have bandwidth to work on the manuscript and pre-release chapter drafts will be available via oreilly.com.
 
 *(Note that while YouTube contains 100% of the taught content, the paid options — e.g., Udemy, O'Reilly, and ODSC — contain comprehensive solution walk-throughs for exercises that are not available on YouTube. Some of the paid options also include exclusive, platform-specific features such as interactive testing, "cheat sheets" and the awarding of a certificate for successful course completion.)*
 
